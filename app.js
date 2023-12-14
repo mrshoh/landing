@@ -23,3 +23,8 @@ const slideImg = ()=>{
         carusel.style.transform = `translateX(-${conunt * 100}%)`
     })
 }
+// for(var i = 0; i++;){
+//     if (i <conunt.lenth) {
+//         setInterval(oldinga(), 3000)
+//     }
+// }
